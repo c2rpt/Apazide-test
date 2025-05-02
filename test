@@ -370,7 +370,7 @@ BloxfruitTab:AddButton({
 BloxfruitTab:AddButton({
 	Name = "Ronix Hub",
 	Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/c2rpt/bx/refs/heads/main/w'))()
+        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/b2db2af40b53ef0a502f6d561b4c6449.lua"))()
   	end    
 })
 
@@ -478,7 +478,7 @@ bubbleguminfTab:AddButton({
 bubbleguminfTab:AddButton({
 	Name = "Ronix Hub",
 	Callback = function()
-		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c0db4ce76d9ee8a944f4fef9891421a0.lua"))()
+		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/588c84c135c213eb9badde611f08be9b.lua"))()
   	end    
 })
 
@@ -647,8 +647,8 @@ DeadRailsTab:AddButton({
 
 DeadRailsTab:AddButton({
 	Name = "Ronix Hub",
-	Callback = function()
-      		setclipboard("loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/672a0ae340e8ce7e21a51e37c6bf0cc1.lua'))()")
+	Callback = function() 
+      		setclipboard("loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/34b20c9e914c2615f025a8cb6f434cb7.lua'))()")
               OrionLib:MakeNotification({
                 Name = "Notification!",
                 Content = "Script coppied!",
@@ -872,7 +872,7 @@ local FischTab = Window:MakeTab({
 FischTab:AddButton({
 	Name = "Ronix Hub",
 	Callback = function()
-		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1516cf1c7b254bde56d45c7c7e4a6376.lua"))()
+		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/aa63ce25cd44fa60f0b155dcc3593445.lua"))()
 	end	
 })
 
@@ -1402,7 +1402,7 @@ local RivalsTab = Window:MakeTab({
 RivalsTab:AddButton({
 	Name = "Ronix Hub",
 	Callback = function()
-		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e945f55997c4240abc865c0bcc2136c5.lua"))()
+		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c8c09494b048a1fc6a4dc43bec1f3713.lua"))() 
 	end	
 })
 
