@@ -38,113 +38,113 @@ local GamesTab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-MainTab:AddLabel("List of supported games")
+GamesTab:AddLabel("List of supported games")
 
-MainTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
+GamesTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
 
-MainTab:AddLabel("+$1,000 Every Correct Glass")
+GamesTab:AddLabel("+$1,000 Every Correct Glass")
 
-MainTab:AddLabel("Ability Wars")
+GamesTab:AddLabel("Ability Wars")
 
-MainTab:AddLabel("Alphabet Lore Race")
+GamesTab:AddLabel("Alphabet Lore Race")
 
-MainTab:AddLabel("Amazing RNG")
+GamesTab:AddLabel("Amazing RNG")
 
-MainTab:AddLabel("Be NPC or DIE!")
+GamesTab:AddLabel("Be NPC or DIE!")
 
-MainTab:AddLabel("Beaks")
+GamesTab:AddLabel("Beaks")
 
-MainTab:AddLabel("Blair")
+GamesTab:AddLabel("Blair")
 
-MainTab:AddLabel("Bloxfruit")
+GamesTab:AddLabel("Bloxfruit")
 
-MainTab:AddLabel("Blox hunt")
+GamesTab:AddLabel("Blox hunt")
 
-MainTab:AddLabel("Break in 2")
+GamesTab:AddLabel("Break in 2")
 
-MainTab:AddLabel("Bubble gum simulator Infinity")
+GamesTab:AddLabel("Bubble gum simulator Infinity")
 
-MainTab:AddLabel("Build A Boat For Treasure")
+GamesTab:AddLabel("Build A Boat For Treasure")
 
-MainTab:AddLabel("Color.io")
+GamesTab:AddLabel("Color.io")
 
-MainTab:AddLabel("Dandy's World")
+GamesTab:AddLabel("Dandy's World")
 
-MainTab:AddLabel("Dead Rails")
+GamesTab:AddLabel("Dead Rails")
 
-MainTab:AddLabel("Demonology")
+GamesTab:AddLabel("Demonology")
 
-MainTab:AddLabel("Destroy Stuff With Lightning")
+GamesTab:AddLabel("Destroy Stuff With Lightning")
 
-MainTab:AddLabel("Dig the Backyard")
+GamesTab:AddLabel("Dig the Backyard")
 
-MainTab:AddLabel("Dig to Earth's CORE!")
+GamesTab:AddLabel("Dig to Earth's CORE!")
 
-MainTab:AddLabel("DOORS")
+GamesTab:AddLabel("DOORS")
 
-MainTab:AddLabel("Draw Obby")
+GamesTab:AddLabel("Draw Obby")
 
-MainTab:AddLabel("Fisch")
+GamesTab:AddLabel("Fisch")
 
-MainTab:AddLabel("Funky Friday")
+GamesTab:AddLabel("Funky Friday")
 
-MainTab:AddLabel("GO FISHING")
+GamesTab:AddLabel("GO FISHING")
 
-MainTab:AddLabel("Grow a Garden")
+GamesTab:AddLabel("Grow a Garden")
 
-MainTab:AddLabel("Gym Track Race")
+GamesTab:AddLabel("Gym Track Race")
 
-MainTab:AddLabel("HAPPY")
+GamesTab:AddLabel("HAPPY")
 
-MainTab:AddLabel("Hide or Die!")
+GamesTab:AddLabel("Hide or Die!")
 
-MainTab:AddLabel("Mad City: Chapter 1")
+GamesTab:AddLabel("Mad City: Chapter 1")
 
-MainTab:AddLabel("Mad City: Chapter 2")
+GamesTab:AddLabel("Mad City: Chapter 2")
 
-MainTab:AddLabel("Make and Sell Weapons")
+GamesTab:AddLabel("Make and Sell Weapons")
 
-MainTab:AddLabel("Money Grab Simulator")
+GamesTab:AddLabel("Money Grab Simulator")
 
-MainTab:AddLabel("Monster Race")
+GamesTab:AddLabel("Monster Race")
 
-MainTab:AddLabel("Murder Mystery 2")
+GamesTab:AddLabel("Murder Mystery 2")
 
-MainTab:AddLabel("Natural Disaster")
+GamesTab:AddLabel("Natural Disaster")
 
-MainTab:AddLabel("NO JUMPING OBBY")
+GamesTab:AddLabel("NO JUMPING OBBY")
 
-MainTab:AddLabel("Pet Simulator 99")
+GamesTab:AddLabel("Pet Simulator 99")
 
-MainTab:AddLabel("PETS GO!")
+GamesTab:AddLabel("PETS GO!")
 
-MainTab:AddLabel("Pick A Skill")
+GamesTab:AddLabel("Pick A Skill")
 
-MainTab:AddLabel("Plinko Legends")
+GamesTab:AddLabel("Plinko Legends")
 
-MainTab:AddLabel("RAISE a DUCKY")
+GamesTab:AddLabel("RAISE a DUCKY")
 
-MainTab:AddLabel("Rainbow Friends Race")
+GamesTab:AddLabel("Rainbow Friends Race")
 
-MainTab:AddLabel("Rivals")
+GamesTab:AddLabel("Rivals")
 
-MainTab:AddLabel("Shopping Drift at Walmart")
+GamesTab:AddLabel("Shopping Drift at Walmart")
 
-MainTab:AddLabel("Slap Battles")
+GamesTab:AddLabel("Slap Battles")
 
-MainTab:AddLabel("Squid Game with GUNS")
+GamesTab:AddLabel("Squid Game with GUNS")
 
-MainTab:AddLabel("The Storage")
+GamesTab:AddLabel("The Storage")
 
-MainTab:AddLabel("Tower of Hell")
+GamesTab:AddLabel("Tower of Hell")
 
-MainTab:AddLabel("Treasure Quest")
+GamesTab:AddLabel("Treasure Quest")
 
-MainTab:AddLabel("Tralalero Tralala RNG")
+GamesTab:AddLabel("Tralalero Tralala RNG")
 
-MainTab:AddLabel("Troll button tower 2")
+GamesTab:AddLabel("Troll button tower 2")
 
-MainTab:AddLabel("Volleyball Legends")
+GamesTab:AddLabel("Volleyball Legends")
 
 local UniversalTab = Window:MakeTab({
 	Name = "Universal scripts",
