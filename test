@@ -32,6 +32,120 @@ MainTab:AddLabel("Updates might be slow, need to test scripts before adding them
 
 MainTab:AddLabel("Hope you enjoy :)")
 
+local GamesTab = Window:MakeTab({
+	Name = "Games",
+	Icon = "rbxassetid://7733960981",
+	PremiumOnly = false
+})
+
+MainTab:AddLabel("List of supported games")
+
+MainTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
+
+MainTab:AddLabel("+$1,000 Every Correct Glass")
+
+MainTab:AddLabel("Ability Wars")
+
+MainTab:AddLabel("Alphabet Lore Race")
+
+MainTab:AddLabel("Amazing RNG")
+
+MainTab:AddLabel("Be NPC or DIE!")
+
+MainTab:AddLabel("Beaks")
+
+MainTab:AddLabel("Blair")
+
+MainTab:AddLabel("Bloxfruit")
+
+MainTab:AddLabel("Blox hunt")
+
+MainTab:AddLabel("Break in 2")
+
+MainTab:AddLabel("Bubble gum simulator Infinity")
+
+MainTab:AddLabel("Build A Boat For Treasure")
+
+MainTab:AddLabel("Color.io")
+
+MainTab:AddLabel("Dandy's World")
+
+MainTab:AddLabel("Dead Rails")
+
+MainTab:AddLabel("Demonology")
+
+MainTab:AddLabel("Destroy Stuff With Lightning")
+
+MainTab:AddLabel("Dig the Backyard")
+
+MainTab:AddLabel("Dig to Earth's CORE!")
+
+MainTab:AddLabel("DOORS")
+
+MainTab:AddLabel("Draw Obby")
+
+MainTab:AddLabel("Fisch")
+
+MainTab:AddLabel("Funky Friday")
+
+MainTab:AddLabel("GO FISHING")
+
+MainTab:AddLabel("Grow a Garden")
+
+MainTab:AddLabel("Gym Track Race")
+
+MainTab:AddLabel("HAPPY")
+
+MainTab:AddLabel("Hide or Die!")
+
+MainTab:AddLabel("Mad City: Chapter 1")
+
+MainTab:AddLabel("Mad City: Chapter 2")
+
+MainTab:AddLabel("Make and Sell Weapons")
+
+MainTab:AddLabel("Money Grab Simulator")
+
+MainTab:AddLabel("Monster Race")
+
+MainTab:AddLabel("Murder Mystery 2")
+
+MainTab:AddLabel("Natural Disaster")
+
+MainTab:AddLabel("NO JUMPING OBBY")
+
+MainTab:AddLabel("Pet Simulator 99")
+
+MainTab:AddLabel("PETS GO!")
+
+MainTab:AddLabel("Pick A Skill")
+
+MainTab:AddLabel("Plinko Legends")
+
+MainTab:AddLabel("RAISE a DUCKY")
+
+MainTab:AddLabel("Rainbow Friends Race")
+
+MainTab:AddLabel("Rivals")
+
+MainTab:AddLabel("Shopping Drift at Walmart")
+
+MainTab:AddLabel("Slap Battles")
+
+MainTab:AddLabel("Squid Game with GUNS")
+
+MainTab:AddLabel("The Storage")
+
+MainTab:AddLabel("Tower of Hell")
+
+MainTab:AddLabel("Treasure Quest")
+
+MainTab:AddLabel("Tralalero Tralala RNG")
+
+MainTab:AddLabel("Troll button tower 2")
+
+MainTab:AddLabel("Volleyball Legends")
+
 local UniversalTab = Window:MakeTab({
 	Name = "Universal scripts",
 	Icon = "rbxassetid://7733992424",
