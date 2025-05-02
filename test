@@ -38,7 +38,7 @@ local GamesTab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-GamesTab:AddLabel("                                        List of supported games")
+GamesTab:AddLabel("                            List of supported games")
 
 GamesTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
 
