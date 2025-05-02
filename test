@@ -38,9 +38,9 @@ local GamesTab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-GamesTab:AddLabel("         List of supported games")
+GamesTab:AddLabel("        List of supported games")
 
-GamesTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
+GamesTab:AddLabel("⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇")
 
 GamesTab:AddLabel("+$1,000 Every Correct Glass")
 
