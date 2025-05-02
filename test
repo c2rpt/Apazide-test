@@ -87,41 +87,7 @@ UniversalTab:AddButton({
   	end    
 })
 
-local FischTab = Window:MakeTab({
-	Name = "Fisch",
-	Icon = "rbxassetid://7733799901",
-	PremiumOnly = false
-})
-
-FischTab:AddButton({
-	Name = "Ronix Hub",
-	Callback = function()
-		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1516cf1c7b254bde56d45c7c7e4a6376.lua"))()
-	end	
-})
-
-FischTab:AddButton({
-	Name = "Forge Hub (Keysystem)",
-	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua"))()
-	end	
-})
-
-FischTab:AddButton({
-	Name = "By Nicuse (Keysystem)",
-	Callback = function()
-		loadstring(game:HttpGet("https://nicuse.xyz/MainHub.lua"))()
-	end	
-})
-
-FischTab:AddButton({
-	Name = "SOLIXHUB (Keysystem)",
-	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))() 
-	end	
-})
-
-if game.PlaceId == 16732694052
+if game.PlaceId == 16732694052 then
 
 local FischTab = Window:MakeTab({
 	Name = "Fisch",
@@ -157,7 +123,7 @@ FischTab:AddButton({
 	end	
 })
 
-elseif game.PlaceId == 14462975521 them
+elseif game.PlaceId == 14462975521 then
 
 local ShoppingDriftatWalmartTab = Window:MakeTab({
 	Name = "Shopping Drift at Walmart",
@@ -179,7 +145,7 @@ ShoppingDriftatWalmartTab:AddButton({
 	end	
 })
 
-elseif game.PlaceId == 116605585218149 them
+elseif game.PlaceId == 116605585218149 then
 
 local GOFISHINGTab = Window:MakeTab({
 	Name = "GO FISHING",
@@ -200,5 +166,7 @@ GOFISHINGTab:AddButton({
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/NhatMinhVNQ/nm.wsj/refs/heads/main/WSJ-HUB.lua"))()
 	end	
 })
+
+end 
 
 OrionLib:Init()
